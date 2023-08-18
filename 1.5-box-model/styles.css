@@ -1,0 +1,17 @@
+.block-element {
+    display: block;
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+    border: 2px solid blue;
+    margin: 10px;
+    padding: 10px;
+}
+
+.inline-element {
+    display: inline;
+    background-color: lightgreen;
+    border: 2px solid green;
+    margin: 10px;
+    padding: 10px;
+}
